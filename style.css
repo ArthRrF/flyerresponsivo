@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+}
+header {
+    background-color: black;
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    color: white;
+    border-left: dotted goldenrod;
+    border-top: dotted goldenrod;
+    border-right: dotted goldenrod;
+}
+.titulofesta {
+    color: goldenrod;
+    text-align: center;
+    font-size: 70px;
+    font-family: Jazz LET, fantasy;
+}
+.conviteprincipal {
+    color: white;
+    margin-top: 3%;
+    font-size: 30px;
+    text-align: center;
+}
+.diasemana {
+    color: white;
+    margin-left: 36%;
+    padding: 5px;
+    font-size: 19px;
+}
+.endereco {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 20%;
+}
+.foterfinal {
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+    color: white;
+    border-left: dotted goldenrod;
+    border-bottom: dotted goldenrod;
+    border-right: dotted goldenrod;
+    margin-top: 5%;
+}
+.info {
+    color: white;
+    margin-top: 3%;
+    text-align: center;
+    font-size: 50px;
+}
+.presenca {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5%;
+}
